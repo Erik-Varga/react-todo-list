@@ -17,7 +17,7 @@ const Footer = () => {
                         &nbsp;<BsGithub />
                     </span>
                 </a>
-                <a href="https://github.com/Erik-Varga/react-vite-tailwind-template" target="_blank" rel="noreferrer" className='text-xs'>
+                <a href="https://github.com/Erik-Varga/react-todo-list" target="_blank" rel="noreferrer" className='text-xs'>
                 Source Code |&nbsp;
                 </a>
             </span>
